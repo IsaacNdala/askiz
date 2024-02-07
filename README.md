@@ -1,6 +1,10 @@
-# askiz
+# Askiz
 
-A new Flutter project.
+<img src="./assets/images/project_image01.png" />
+
+## About
+
+A quiz game about flutter
 
 ## Getting Started
 
